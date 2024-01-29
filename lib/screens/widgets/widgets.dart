@@ -15,6 +15,8 @@ Widget buildMenuItemCard(
         fractionDigits: 0,
       ));
 
+  //TextEditingController notesController = TextEditingController();
+
   return Container(
     decoration: BoxDecoration(
       boxShadow: [
